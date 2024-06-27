@@ -21,7 +21,7 @@
 
 ---
 ### :writing_hand: Blog Posts :
-[~/The Index](https://Samestora.github.io)
+[~/The Index](https://the-index-three.vercel.app/)
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
