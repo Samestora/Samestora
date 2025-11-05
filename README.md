@@ -14,11 +14,11 @@
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-    <img src="https://github.com/devicons/devicon/tree/master/icons/opengl/opengl-original.svg" title="Opengl"  alt="opengl" width="40" height="40" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg" title="Opengl"  alt="opengl" width="40" height="40" />
     &nbsp;
-    <img src="https://github.com/devicons/devicon/tree/master/icons/godot/godot-original.svg" title="Godot"  alt="Hugo" width="40" height="40" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" title="Godot"  alt="Hugo" width="40" height="40" />
     &nbsp;
-    <img src="https://github.com/devicons/devicon/tree/master/icons/vulkan/vulkan-original.svg" title="Vulkan"  alt="Vulkan" width="40" height="40" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vulkan/vulkan-original.svg" title="Vulkan"  alt="Vulkan" width="40" height="40" />
     &nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/hugo/hugo-original-wordmark.svg" title="Hugo"  alt="Hugo" width="40" height="40"/>
     &nbsp;
