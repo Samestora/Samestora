@@ -18,13 +18,13 @@
     &nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/vulkan/vulkan-original.svg" title="Vulkan"  alt="Vulkan" width="40" height="40" />
     &nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sdl/sdl-original.svg" title="SDL" **alt="SDL" width="40" height="40"/>
+    &nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" title="Godot"  alt="Hugo" width="40" height="40" />
     &nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/hugo/hugo-original-wordmark.svg" title="Hugo"  alt="Hugo" width="40" height="40"/>
     &nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="go"  alt="go" width="40" height="40"/>
-    &nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/sdl/sdl-original.svg" title="SDL" **alt="SDL" width="40" height="40"/>
     &nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"  title="c" alt="c" width="40" height="40"/>
     &nbsp;
