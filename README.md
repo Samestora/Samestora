@@ -31,8 +31,8 @@
 </div>
 
 ### :fire: Statistics
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samestora&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samestora&show_icons=true&theme=vision-friendly-dark)
 
 ### 📌 Pinned Repositories
-[![AoC](https://github-readme-stats.vercel.app/api/pin/?username=Samestora&repo=AdventOfCode&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![MReader](https://github-readme-stats.vercel.app/api/pin/?username=Samestora&repo=MReader&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![AoC](https://github-readme-stats.vercel.app/api/pin/?username=Samestora&repo=AdventOfCode&theme=vision-friendly-dark)](https://github.com/Samestora/AdventOfCode)
+[![MReader](https://github-readme-stats.vercel.app/api/pin/?username=Samestora&repo=MReader&theme=vision-friendly-dark)](https://github.com/Samestora/MReader)
