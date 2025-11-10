@@ -39,4 +39,4 @@
 
 ---
 ### :fire: Statistics
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samestora)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samestora&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
