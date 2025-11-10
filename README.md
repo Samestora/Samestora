@@ -24,9 +24,11 @@
     &nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="go"  alt="go" width="40" height="40"/>
     &nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sdl/sdl-original-wordmark.svg" title="SDL" **alt="SDL" width="40" height="40"/>
+    &nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"  title="c" alt="c" width="40" height="40"/>
     &nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/cpp/cpp-original.svg"  title="cpp" alt="cpp" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"  title="cpp" alt="cpp" width="40" height="40"/>
     &nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql"  alt="postgresql" width="40" height="40"/>
     &nbsp;
