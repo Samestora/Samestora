@@ -2,12 +2,9 @@
     <h2> Hello There :wave: </h2>
 </div>
 
----
 ### About Me :
 - ⚡ Doing GameJams, CTFs and AoCs from time to time
-- 🌵 My writings [~/The Index](https://the-index-three.vercel.app/)
 
----
 ### :hammer_and_wrench: Languages and Tools :
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg" title="OpenGL"  alt="opengl" width="40" height="40" />
@@ -33,7 +30,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
----
 ### :fire: Statistics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samestora&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
