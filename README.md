@@ -1,7 +1,3 @@
-<div id="header" align="center">
-  <img src="https://avatars.githubusercontent.com/u/99408454?v=4" width="100"/>
-</div>
-
 <div id="name" align="center" style="margin-top: 3vh">
     <h2> Hello There :wave: </h2>
 </div>
