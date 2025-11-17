@@ -38,3 +38,4 @@
 ### Maybe you will need these :
 [![AoC](https://github-readme-stats.vercel.app/api/pin/?username=Samestora&repo=AdventOfCode&theme=vision-friendly-dark)](https://github.com/Samestora/AdventOfCode)
 [![MReader](https://github-readme-stats.vercel.app/api/pin/?username=Samestora&repo=MReader&theme=vision-friendly-dark)](https://github.com/Samestora/MReader)
+[![Penuhan](https://github-readme-stats.vercel.app/api/pin/?username=Samestora&repo=Penuhan&theme=vision-friendly-dark)](https://github.com/Samestora/Penuhan)
