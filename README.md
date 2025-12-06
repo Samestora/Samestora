@@ -33,9 +33,9 @@
 </div>
 
 ### Language distributions :
-![Top Langs](https://github-readme-stats-delta-sable-33.vercel.app/api/top-langs/?username=Samestora&show_icons=true&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats-delta-sable-33.vercel.app/api/top-langs/?username=Samestora&show_icons=true&theme=gruvbox)
 
 ### Maybe you will need these :
-[![AoC](https://github-readme-stats-delta-sable-33.vercel.app/api/pin/?username=Samestora&repo=AdventOfCode&theme=vision-friendly-dark)](https://github.com/Samestora/AdventOfCode)
-[![MReader](https://github-readme-stats-delta-sable-33.vercel.app/api/pin/?username=Samestora&repo=MReader&theme=vision-friendly-dark)](https://github.com/Samestora/MReader)
-[![Penuhan](https://github-readme-stats-delta-sable-33.vercel.app/api/pin/?username=Samestora&repo=Penuhan&theme=vision-friendly-dark)](https://github.com/Samestora/Penuhan)
+[![AoC](https://github-readme-stats-delta-sable-33.vercel.app/api/pin/?username=Samestora&repo=AdventOfCode&theme=gruvbox)](https://github.com/Samestora/AdventOfCode)
+[![MReader](https://github-readme-stats-delta-sable-33.vercel.app/api/pin/?username=Samestora&repo=MReader&theme=gruvbox)](https://github.com/Samestora/MReader)
+[![Penuhan](https://github-readme-stats-delta-sable-33.vercel.app/api/pin/?username=Samestora&repo=Penuhan&theme=gruvbox)](https://github.com/Samestora/Penuhan)
