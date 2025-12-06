@@ -1,4 +1,4 @@
-<h2 align="center">Hello There</h2>
+## Hello
 
 ### What I usually do :
 - Doing GameJams, CTFs and AoCs from time to time
@@ -33,7 +33,7 @@
 </div>
 
 ### Language distributions :
-![Top Langs](https://github-readme-stats-delta-sable-33.vercel.app/api/top-langs/?username=Samestora&show_icons=true&theme=gruvbox&hide=html,cmake,swift,)
+![Top Langs](https://github-readme-stats-delta-sable-33.vercel.app/api/top-langs/?username=Samestora&show_icons=true&langs_count=10&theme=gruvbox&layout=donut&hide=html,cmake,swift,javascript,php,css)
 
 ### Maybe you will need these :
 [![AoC](https://github-readme-stats-delta-sable-33.vercel.app/api/pin/?username=Samestora&repo=AdventOfCode&theme=gruvbox)](https://github.com/Samestora/AdventOfCode)
