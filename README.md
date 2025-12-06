@@ -39,3 +39,4 @@
 [![AoC](https://github-readme-stats-delta-sable-33.vercel.app/api/pin/?username=Samestora&repo=AdventOfCode&theme=gruvbox)](https://github.com/Samestora/AdventOfCode)
 [![MReader](https://github-readme-stats-delta-sable-33.vercel.app/api/pin/?username=Samestora&repo=MReader&theme=gruvbox)](https://github.com/Samestora/MReader)
 [![Penuhan](https://github-readme-stats-delta-sable-33.vercel.app/api/pin/?username=Samestora&repo=Penuhan&theme=gruvbox)](https://github.com/Samestora/Penuhan)
+[![Kosongan](https://github-readme-stats-delta-sable-33.vercel.app/api/pin/?username=Samestora&repo=Kosongan&theme=gruvbox)](https://github.com/Samestora/Kosongan)
