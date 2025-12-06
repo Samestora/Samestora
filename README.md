@@ -33,7 +33,7 @@
 </div>
 
 ### Language distributions :
-![Top Langs](https://github-readme-stats-delta-sable-33.vercel.app/api/top-langs/?username=Samestora&show_icons=true&theme=gruvbox)
+![Top Langs](https://github-readme-stats-delta-sable-33.vercel.app/api/top-langs/?username=Samestora&show_icons=true&theme=gruvbox&hide=html,cmake,swift,)
 
 ### Maybe you will need these :
 [![AoC](https://github-readme-stats-delta-sable-33.vercel.app/api/pin/?username=Samestora&repo=AdventOfCode&theme=gruvbox)](https://github.com/Samestora/AdventOfCode)
