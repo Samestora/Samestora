@@ -49,7 +49,7 @@
         <a href="https://github.com/Samestora/MReader"><img src="https://github-readme-stats-delta-sable-33.vercel.app/api/pin/?username=Samestora&repo=MReader&bg_color=0B0C10&title_color=C5C6C7&icon_color=66FCF1&text_color=C5C6C7&border_color=C5C6C7&border_radius=4.5" /></a>
         <a href="https://github.com/Samestora/Penuhan"><img src="https://github-readme-stats-delta-sable-33.vercel.app/api/pin/?username=Samestora&repo=Penuhan&bg_color=0B0C10&title_color=C5C6C7&icon_color=66FCF1&text_color=C5C6C7&border_color=C5C6C7&border_radius=4.5" /></a>
         <a href="https://github.com/Samestora/Kosongan"><img src="https://github-readme-stats-delta-sable-33.vercel.app/api/pin/?username=Samestora&repo=Kosongan&bg_color=0B0C10&title_color=C5C6C7&icon_color=66FCF1&text_color=C5C6C7&border_color=C5C6C7&border_radius=4.5" /></a>
-        <a href="https://github.com/Samestora/Tekat"><img src="https://github-readme-stats-delta-sable-33.vercel.app/api/pin/?username=Samestora&repo=Tekat&bg_color=0B0C10&title_color=C5C6C7&icon_color=66FCF1&text_color=C5C6C7&border_color=C5C6C7&border_radius=4.5 " /></a>
+        <a href="https://github.com/Samestora/Tekat"><img src="https://github-readme-stats-delta-sable-33.vercel.app/api/pin/?username=Samestora&repo=Tekat&bg_color=0B0C10&title_color=C5C6C7&icon_color=66FCF1&text_color=C5C6C7&border_color=C5C6C7&border_radius=4.5" /></a>
         <a href="https://github.com/Samestora/IVLA"><img src="https://github-readme-stats-delta-sable-33.vercel.app/api/pin/?username=Samestora&repo=IVLA&bg_color=0B0C10&title_color=C5C6C7&icon_color=66FCF1&text_color=C5C6C7&border_color=C5C6C7&border_radius=4.5" /></a>
     </p>
 </div>
