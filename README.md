@@ -48,7 +48,7 @@
         <a href="https://github.com/Samestora/AdventOfCode"><img src="https://github-readme-stats-delta-sable-33.vercel.app/api/pin/?username=Samestora&repo=AdventOfCode&bg_color=0B0C10&title_color=C5C6C7&icon_color=66FCF1&text_color=C5C6C7&border_color=C5C6C7&border_radius=4.5" /></a>
         <a href="https://github.com/Samestora/MReader"><img src="https://github-readme-stats-delta-sable-33.vercel.app/api/pin/?username=Samestora&repo=MReader&bg_color=0B0C10&title_color=C5C6C7&icon_color=66FCF1&text_color=C5C6C7&border_color=C5C6C7&border_radius=4.5" /></a>
         <a href="https://github.com/Samestora/Penuhan"><img src="https://github-readme-stats-delta-sable-33.vercel.app/api/pin/?username=Samestora&repo=Penuhan&bg_color=0B0C10&title_color=C5C6C7&icon_color=66FCF1&text_color=C5C6C7&border_color=C5C6C7&border_radius=4.5" /></a>
-        <a href="https://github.com/Samestora/Kosongan"><img src="https://github-readme-stats-delta-sable-33.vercel.app/api/pin/?username=Samestora&repo=Kosongan&bg_color=0B0C10&title_color=C5C6C7&icon_color=66FCF1&text_color=45A29E&border_color=C5C6C7&border_radius=4.5" /></a>
+        <a href="https://github.com/Samestora/Kosongan"><img src="https://github-readme-stats-delta-sable-33.vercel.app/api/pin/?username=Samestora&repo=Kosongan&bg_color=0B0C10&title_color=C5C6C7&icon_color=66FCF1&text_color=C5C6C7&border_color=C5C6C7&border_radius=4.5" /></a>
         <a href="https://github.com/Samestora/Tekat"><img src="https://github-readme-stats-delta-sable-33.vercel.app/api/pin/?username=Samestora&repo=Tekat&bg_color=0B0C10&title_color=C5C6C7&icon_color=66FCF1&text_color=C5C6C7&border_color=C5C6C7&border_radius=4.5" /></a>
         <a href="https://github.com/Samestora/IVLA"><img src="https://github-readme-stats-delta-sable-33.vercel.app/api/pin/?username=Samestora&repo=IVLA&bg_color=0B0C10&title_color=C5C6C7&icon_color=66FCF1&text_color=C5C6C7&border_color=C5C6C7&border_radius=4.5" /></a>
     </p>
@@ -57,7 +57,7 @@
 <br />
 
 <div align="center">
-    <h3>Misc.</h3>
+    <h3>Stats</h3>
     <img src="https://github-readme-streak-stats-tan-eight-93.vercel.app?user=Samestora&theme=dark-smoky&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
     <br/>
     <img src="https://github-readme-stats-delta-sable-33.vercel.app/api/top-langs/?username=Samestora&show_icons=true&langs_count=10&bg_color=0B0C10&title_color=C5C6C7&icon_color=66FCF1&text_color=C5C6C7&border_color=C5C6C7&border_radius=4.5&layout=donut&hide=html,cmake,swift,javascript,php,css" alt="Top Langs" />
