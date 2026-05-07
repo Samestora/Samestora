@@ -45,6 +45,7 @@
 <div align="center">
     <h3>Past works</h3>
     <p>
+        <a href="https://github.com/Samestora/RapidBinary"><img src="https://github-readme-stats-delta-sable-33.vercel.app/api/pin/?username=Samestora&repo=RapidBinary&bg_color=0B0C10&title_color=C5C6C7&icon_color=66FCF1&text_color=C5C6C7&border_color=C5C6C6&border_radius=4.5" /></a>
         <a href="https://github.com/Samestora/AdventOfCode"><img src="https://github-readme-stats-delta-sable-33.vercel.app/api/pin/?username=Samestora&repo=AdventOfCode&bg_color=0B0C10&title_color=C5C6C7&icon_color=66FCF1&text_color=C5C6C7&border_color=C5C6C6&border_radius=4.5" /></a>
         <a href="https://github.com/Samestora/MReader"><img src="https://github-readme-stats-delta-sable-33.vercel.app/api/pin/?username=Samestora&repo=MReader&bg_color=0B0C10&title_color=C5C6C6&icon_color=66FCF1&text_color=C5C6C7&border_color=C5C6C7&border_radius=4.5" /></a>
         <a href="https://github.com/Samestora/Penuhan"><img src="https://github-readme-stats-delta-sable-33.vercel.app/api/pin/?username=Samestora&repo=Penuhan&bg_color=0B0C10&title_color=C5C6C6&icon_color=66FCF1&text_color=C5C6C7&border_color=C5C6C7&border_radius=4.5" /></a>
