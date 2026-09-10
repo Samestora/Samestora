@@ -29,14 +29,3 @@
     &nbsp; 
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40" />
 </div>
-
-<br />
-
-<br />
-
-<div align="center">
-    <h3>Stats</h3>
-    <img src="https://github-readme-streak-stats-tan-eight-93.vercel.app?user=Samestora&theme=dark-smoky&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
-    <br/>
-    <img src="https://github-readme-stats-delta-sable-33.vercel.app/api/top-langs/?username=Samestora&show_icons=true&langs_count=10&bg_color=0B0C13&title_color=C5C6C9&icon_color=66FCF1&text_color=C5C6C7&border_color=C5C6C7&border_radius=4.5&layout=donut&hide=html,cmake,swift,javascript,php,css,blade,hack" alt="Top Langs" />
-</div>
